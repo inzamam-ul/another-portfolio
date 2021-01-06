@@ -72,3 +72,23 @@ section{
 footer{
     text-align: center;
 }
+.one-third{
+    width: 30%;
+    float: left;
+    margin-left: 2.5%;
+    padding: 2%;
+    box-shadow: 3px 3px 20px gray;
+    height: 60%;
+    box-sizing: border-box;
+}
+.one-third h1{
+    text-align: center;
+}
+.one-third h2{
+    text-align: center;
+    padding: 30px;
+    background-color: antiquewhite;
+    display: inline-block;
+    border: #987 3px solid;
+    border-left: 90%;
+}
